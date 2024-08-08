@@ -4,9 +4,9 @@
 <h1 align="center">Hi there! 👋 I'm s.praveenkumar</h1>
 <h3 align="center">An Excellent MERN Stack Developer and UI/UX Designer</h3>
 
-<div style="text-align: center;">
+<p align="center">
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+</p>
 
 
 <p align="left">
