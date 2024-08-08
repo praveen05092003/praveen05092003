@@ -4,7 +4,10 @@
 <h1 align="center">Hi there! 👋 I'm s.praveenkumar</h1>
 <h3 align="center">An Excellent MERN Stack Developer and UI/UX Designer</h3>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div style="text-align: center;">
+    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=praveen05092003&label=Profile%20views&color=0e75b6&style=flat" alt="praveen05092003" />
